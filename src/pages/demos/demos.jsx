@@ -545,6 +545,135 @@ const Demos = () => {
 
           <div className="line top left"></div>
         </section>
+        <section className="masonery section-padding position-re">
+          <div className="container">
+            <div className="row justify-content-center">
+              <div className="col-lg-8 col-md-10">
+                <div className="sec-head text-center">
+                  <h3 className="color-font">Team</h3>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="container-fluid">
+            <div className="row">
+              <div className="gallery full-width">
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/ceo.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Mofir</h6>
+                          <h9>CEO</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/COO.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Akmalul Ihsan</h6>
+                          <h9>COO</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="https://gamefiindonesia.com">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/marketing.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>M. Anis</h6>
+                          <h9>Marketing</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="https://investorshub.global/">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/demo-img/global.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Global Investment hub</h6>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="http://dexcapital.tech/">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/demo-img/dex.png" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Dex Capital</h6>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="https://gotbit.io/">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/demo-img/gotbit.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Gotbit</h6>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div className="line top left"></div>
+        </section>
 
         <section className="services bords lficon section-padding position-re">
           <div className="container">
@@ -644,7 +773,7 @@ const Demos = () => {
               </div>
               <div className="col-md-4 col-lg-3 valign">
                 <a
-                  href="mailto: dracko@fandomcapital.id"
+                  href="mailto: admin@fandomcapital.id"
                   className="butn bord curve wow fadeInUp"
                   data-wow-delay=".5s"
                 >
