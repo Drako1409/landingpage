@@ -633,7 +633,7 @@ const Demos = () => {
                 </div>
               </div>
 
-              <div className="col-md-7 col-lg-3 valign">
+              <div className="col-md-4 col-lg-3 valign">
                 <a
                   href="https://t.me/FandomClubXYZ"
                   className="butn bord curve wow fadeInUp"
