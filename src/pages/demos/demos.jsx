@@ -644,7 +644,7 @@ const Demos = () => {
               </div>
               <div className="col-md-4 col-lg-3 valign">
                 <a
-                  href="dracko@fandomcapital.id"
+                  href="mailto: dracko@fandomcapital.id"
                   className="butn bord curve wow fadeInUp"
                   data-wow-delay=".5s"
                 >
