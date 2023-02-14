@@ -328,7 +328,7 @@ const Demos = () => {
                     <Link href="https://www.kuncicoin.com/">
                       <a target="_blank">
                         <div className="img">
-                          <img src="/demo-img/AptosLaunch.jpg" alt="image" />
+                          <img src="/projek/AptosLaunch.jpg" alt="image" />
                         </div>
                         <div className="cont">
                           <h6>Aptos Launch</h6>
@@ -360,9 +360,7 @@ const Demos = () => {
                     </Link>
                   </div>
                 </div>
-              </div>
-
-              <div className="col-lg-3 col-md-6 items">
+                <div className="col-lg-3 col-md-6 items">
                   <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                     <span className="dot"></span>
                     <span className="dot"></span>
@@ -379,6 +377,8 @@ const Demos = () => {
                     </Link>
                   </div>
                 </div>
+
+              </div>
 
             </div>
           </div>
