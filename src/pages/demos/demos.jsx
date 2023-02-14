@@ -537,9 +537,9 @@ const Demos = () => {
                     Fandom Capital
                   </h3>
                   <h9 className="wow color-font">
-                    Fndom Capital is fast growing INDONESIA Community based Ventured Capital which invest in blockchain and crypto startups at seed stage of their innovation
+                    Fandom Capital is fast growing INDONESIA Community based Venture Capital which invest in blockchain and crypto startups at seed stage of their innovation
                   </h9>
-                  <h6 className="wow color-font">WE ARE AIM TO BRING FINANCIAL FREESDOM TO OUR INVESTOR</h6>
+                  <h6 className="wow color-font">WE AIM TO BRING FINANCIAL FREEDOM TO OUR INVESTOR</h6>
                 </div>
               </div>
             </div>
@@ -552,7 +552,7 @@ const Demos = () => {
                   <div className="cont">
                     <h6>Investment</h6>
                     <p>
-                      Funding to promising Crypto Project in there seed, private, and strategic rounds
+                      Funding to promising Crypto Project in seed, private, and strategic rounds
                     </p>
                   </div>
                 </div>
@@ -564,7 +564,7 @@ const Demos = () => {
                   </div>
                   <div className="cont">
                     <h6>Partnership</h6>
-                    <p>Connect Project with the right partnert to enable steady growth and success</p>
+                    <p>Connect Project with the right partner to enable steady growth and success</p>
                   </div>
                 </div>
               </div>
