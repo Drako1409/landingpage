@@ -601,7 +601,7 @@ const Demos = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                     <span className="dot"></span>
-                    <Link href="https://gamefiindonesia.com">
+                    <Link href="#">
                       <a target="_blank">
                         <div className="img">
                           <img src="/team/marketing.jpg" alt="image" />
@@ -609,6 +609,70 @@ const Demos = () => {
                         <div className="cont">
                           <h6>M. Anis</h6>
                           <h9>Marketing</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+
+          <div className="container-fluid">
+            <div className="row">
+              <div className="gallery full-width">
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="#">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/dee.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Fredy</h6>
+                          <h9>Partnership</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="#">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/andra.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Andra</h6>
+                          <h9>CIO</h9>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="#">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/team/hendra.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Hendra</h6>
+                          <h9>CFO</h9>
                         </div>
                       </a>
                     </Link>
