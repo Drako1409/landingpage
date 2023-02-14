@@ -231,6 +231,24 @@ const Demos = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                     <span className="dot"></span>
+                    <Link href="https://verse.bitcoin.com/">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/projek/verse.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Verse</h6>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
                     <Link href="https://www.eizperchain.com/">
                       <a target="_blank">
                         <div className="img">
@@ -301,6 +319,24 @@ const Demos = () => {
                     </Link>
                   </div>
                 </div>
+
+                <div className="col-lg-3 col-md-6 items">
+                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <span className="dot"></span>
+                    <Link href="https://www.kuncicoin.com/">
+                      <a target="_blank">
+                        <div className="img">
+                          <img src="/demo-img/AptosLaunch.jpg" alt="image" />
+                        </div>
+                        <div className="cont">
+                          <h6>Aptos Launch</h6>
+                        </div>
+                      </a>
+                    </Link>
+                  </div>
+                </div>
               </div>
 
               <div className="gallery full-width">
@@ -338,42 +374,6 @@ const Demos = () => {
                         </div>
                         <div className="cont">
                           <h6>Myria</h6>
-                        </div>
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-
-                <div className="col-lg-3 col-md-6 items">
-                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <Link href="https://aptoslaunch.io/">
-                      <a target="_blank">
-                        <div className="img">
-                          <img src="/projek/AptosLaunch.jpg" alt="image" />
-                        </div>
-                        <div className="cont">
-                          <h6>Aptos Launch</h6>
-                        </div>
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-                
-                <div className="col-lg-3 col-md-6 items">
-                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <Link href="https://verse.bitcoin.com/">
-                      <a target="_blank">
-                        <div className="img">
-                          <img src="/projek/verse.jpg" alt="image" />
-                        </div>
-                        <div className="cont">
-                          <h6>Verse</h6>
                         </div>
                       </a>
                     </Link>
