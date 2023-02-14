@@ -615,59 +615,6 @@ const Demos = () => {
                   </div>
                 </div>
 
-
-                <div className="col-lg-3 col-md-6 items">
-                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <Link href="https://investorshub.global/">
-                      <a target="_blank">
-                        <div className="img">
-                          <img src="/demo-img/global.jpg" alt="image" />
-                        </div>
-                        <div className="cont">
-                          <h6>Global Investment hub</h6>
-                        </div>
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-                <div className="col-lg-3 col-md-6 items">
-                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <Link href="http://dexcapital.tech/">
-                      <a target="_blank">
-                        <div className="img">
-                          <img src="/demo-img/dex.png" alt="image" />
-                        </div>
-                        <div className="cont">
-                          <h6>Dex Capital</h6>
-                        </div>
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-                <div className="col-lg-3 col-md-6 items">
-                  <div className="item-img wow fadeInUp" data-wow-delay=".4s">
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <span className="dot"></span>
-                    <Link href="https://gotbit.io/">
-                      <a target="_blank">
-                        <div className="img">
-                          <img src="/demo-img/gotbit.jpg" alt="image" />
-                        </div>
-                        <div className="cont">
-                          <h6>Gotbit</h6>
-                        </div>
-                      </a>
-                    </Link>
-                  </div>
-                </div>
-
               </div>
             </div>
           </div>
