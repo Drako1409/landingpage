@@ -642,6 +642,15 @@ const Demos = () => {
                   <span>Join Now</span>
                 </a>
               </div>
+              <div className="col-md-4 col-lg-3 valign">
+                <a
+                  href="dracko@fandomcapital.id"
+                  className="butn bord curve wow fadeInUp"
+                  data-wow-delay=".5s"
+                >
+                  <span>Contact Us</span>
+                </a>
+              </div>
             </div>
           </div>
         </section>
