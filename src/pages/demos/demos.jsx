@@ -615,13 +615,6 @@ const Demos = () => {
                   </div>
                 </div>
 
-              </div>
-            </div>
-          </div>
-
-          <div className="container-fluid">
-            <div className="row">
-              <div className="gallery full-width">
                 <div className="col-lg-3 col-md-6 items">
                   <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                     <span className="dot"></span>
@@ -641,6 +634,13 @@ const Demos = () => {
                   </div>
                 </div>
 
+              </div>
+            </div>
+          </div>
+
+          <div className="container-fluid">
+            <div className="row">
+              <div className="gallery full-width">
                 <div className="col-lg-3 col-md-6 items">
                   <div className="item-img wow fadeInUp" data-wow-delay=".4s">
                     <span className="dot"></span>
