@@ -325,7 +325,7 @@ const Demos = () => {
                     <span className="dot"></span>
                     <span className="dot"></span>
                     <span className="dot"></span>
-                    <Link href="https://www.kuncicoin.com/">
+                    <Link href="https://aptoslaunch.io/">
                       <a target="_blank">
                         <div className="img">
                           <img src="/projek/AptosLaunch.jpg" alt="image" />
