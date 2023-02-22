@@ -166,7 +166,7 @@ const Demos = () => {
                     Fandom Capital
                   </h3>
                   <span className="tbg">
-                    <b>+</b>62
+                    <b>INDO</b>NESIA
                   </span>
                 </div>
               </div>
